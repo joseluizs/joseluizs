@@ -1,8 +1,33 @@
-# Olá a todos! Me chamo José Luiz. Gosto muito de tecnologia, cada dia me sinto mais atraido pela desenvolvimento de softwares
-## Estou em transição de carreira e procurando um novo cargo e agradeceria muito seu apoio. Estou empenhado para me tornar um Desenvolvedor.
+# Olá, sou José Luiz! 👋
+Sou um entusiasta da tecnologia em transição de carreira, buscando me consolidar como Desenvolvedor Full-stack. Possuo facilidade para trabalhar em equipe, boa comunicação e habilidade para solucionar problemas complexos. Minha experiência em suporte técnico me ensinou a compreender as necessidades dos usuários e a resolver problemas de maneira eficaz. Agora, estou focado em criar soluções inovadoras em tecnologia.
 
-Quero muito trazer meus conhecimentos, competências e experiência para um novo desafio. Desenvolvedor em ascensão com experiência em suporte técnico, buscando aplicar minhas habilidades em projetos desafiadores e colaborar com equipes dinâmicas. Possuo sólida base em Java, SQL CSS, HTML, frameworks Spring Boot, Angular, Reack e Kafka. Minha experiência em suporte técnico me proporcionou uma compreensão profunda das necessidades dos usuários e a capacidade de resolver problemas de forma eficaz. Atualmente, estou focado em desenvolver minhas habilidades em desenvolvimento full-stack e estou ansioso para contribuir para projetos inovadores. 
-Acabo de concluir o curso de Desenvolvedor Full-stack SENAI.!
+## Tecnologias 🛠️
+- **Back-end:** Java, Spring Boot, Quarkus, Kafka
+- **Front-end:** HTML, CSS, Angular, React
+- **Banco de Dados:** SQL
+- **Outras Habilidades:** Suporte técnico, solução de problemas, trabalho em equipe
+
+## Formação 🎓
+- Análise e Desenvolvimento de Sistemas (em andamento) **UCB**
+- Desenvolvedor Full-stack – **SENAI**
+- Treinamento em Kafka e Quarkus (em andamento) **UDEMY**
+- Treinamentos e Bootcamps Java **DIO**
+
+## Projetos 🚀
+- **Protifolio**: https://portifoliojl.vercel.app/
+- **Projeto de Landing Page**: https://tek-store.vercel.app/
+- **Projeto de Landing Page**: https://plantastodacasatemqueter.netlify.app/
+
+## Contato 📫
+Sinta-se à vontade para entrar em contato:
+<div> 
+  <a href="mailto:joseluiz.smarques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joseluizs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
+## About Me
+I'm a career-transitioning professional passionate about software development. I'm skilled in Java, SQL, Spring Boot, and Angular, with a strong foundation in technical support. Currently, I'm honing my skills as a full-stack developer and exploring new technologies like Kafka and Quarkus.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -23,13 +48,8 @@ Acabo de concluir o curso de Desenvolvedor Full-stack SENAI.!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-</div>
-
-##
- 
-<div> 
-  <a href = "mailto:joseluiz.smarques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joseluizs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="40" alt="quarkus logo"  />
+  <img width="12" /> 
 </div>
 
 ##
