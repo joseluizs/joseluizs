@@ -1,4 +1,13 @@
-# Olá eu sou o José Luiz!
+# Olá a todos! Estou em transição de carreira e procurando um novo cargo e agradeceria muito seu apoio. 
+# Quero muito trazer meus conhecimentos, competências e experiência para um novo desafio.
+# Desenvolvedor em ascensão com experiência em suporte técnico, buscando aplicar minhas habilidades em projetos desafiadores e colaborar com equipes dinâmicas. 
+# Possuo sólida base em Java, SQL CSS, HTML, Spring Boot. 
+# Minha experiência em suporte técnico me proporcionou uma compreensão profunda das necessidades dos usuários e a capacidade de resolver problemas de forma eficaz. 
+# Atualmente, estou focado em desenvolver minhas habilidades em desenvolvimento full-stack e estou ansioso para contribuir para projetos inovadores.
+# Acabo de concluir o curso de Desenvolvedor Full-stack SENAI
+
+Desenvolvedor em ascensão com experiência em suporte técnico, buscando aplicar minhas habilidades em projetos desafiadores e colaborar com equipes dinâmicas. Possuo sólida base em Java, SQL CSS, HTML. Minha experiência em suporte técnico me proporcionou uma compreensão profunda das necessidades dos usuários e a capacidade de resolver problemas de forma eficaz. Atualmente, estou focado em desenvolver minhas habilidades em desenvolvimento full-stack e estou ansioso para contribuir para projetos inovadores.
+Acabo de concluir o curso de Desenvolvedor Full-stack SENAI.!
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
