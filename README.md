@@ -10,7 +10,7 @@ Sou um entusiasta da tecnologia em transição de carreira, buscando me consolid
 ## Formação 🎓
 - Análise e Desenvolvimento de Sistemas (em andamento) **UCB**
 - Desenvolvedor Full-stack – **SENAI**
-- Treinamento em Kafka e Quarkus (em andamento) **UDEMY**
+- Treinamento em Spring-Boot e Quarkus (em andamento) **UDEMY**
 - Treinamentos e Bootcamps Java **DIO**
 
 ## Projetos 🚀
