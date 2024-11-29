@@ -17,6 +17,7 @@ Sou um entusiasta da tecnologia em transição de carreira, buscando me consolid
 - **Protifolio**: https://portifoliojl.vercel.app/
 - **Projeto de Landing Page**: https://tek-store.vercel.app/
 - **Projeto de Landing Page**: https://plantastodacasatemqueter.netlify.app/
+- **Projeto Plataforma de Estudos NossoLar**
 
 ## Contato 📫
 Sinta-se à vontade para entrar em contato:
