@@ -5,6 +5,7 @@ Sou um entusiasta da tecnologia em transição de carreira, buscando me consolid
 - **Back-end:** Java, Spring Boot, Quarkus, Kafka
 - **Front-end:** HTML, CSS, Angular, React
 - **Banco de Dados:** SQL
+- **ISO 27001**
 - **Outras Habilidades:** Suporte técnico, solução de problemas, trabalho em equipe
 
 ## Formação 🎓
