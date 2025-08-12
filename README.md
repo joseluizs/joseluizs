@@ -9,7 +9,7 @@ Sou um entusiasta da tecnologia em transição de carreira, buscando me consolid
 - **Outras Habilidades:** Suporte técnico, solução de problemas, trabalho em equipe
 
 ## Formação 🎓
-- Análise e Desenvolvimento de Sistemas (em andamento) **UDF**
+- Análise e Desenvolvimento de Sistemas (em andamento) **CRUZEIRO DO SUL**
 - Desenvolvedor Full-stack – **SENAI**
 - Treinamento em Spring-Boot e Quarkus (em andamento) **UDEMY**
 - Treinamentos e Bootcamps Java **DIO**
