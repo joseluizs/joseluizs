@@ -2,7 +2,7 @@
 Sou um entusiasta da tecnologia em transição de carreira, buscando me consolidar como Desenvolvedor Full-stack. Possuo facilidade para trabalhar em equipe, boa comunicação e habilidade para solucionar problemas complexos. Minha experiência em suporte técnico me ensinou a compreender as necessidades dos usuários e a resolver problemas de maneira eficaz. Agora, estou focado em criar soluções inovadoras em tecnologia.
 
 ## Tecnologias 🛠️
-- **Back-end:** Java, Spring Boot, Quarkus, Kafka
+- **Back-end:** Java, Spring Boot **Em estudo:** Quarkus, Kafka
 - **Front-end:** HTML, CSS, Angular, React
 - **Banco de Dados:** SQL
 - **ISO 27001**
