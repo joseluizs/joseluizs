@@ -13,6 +13,7 @@ Sou um entusiasta da tecnologia em transição de carreira, buscando me consolid
 - Desenvolvedor Full-stack – **SENAI**
 - Treinamento em Spring-Boot e Quarkus (em andamento) **UDEMY**
 - Treinamentos e Bootcamps Java **DIO**
+- CS50’s Introduction to Databases with SQL **HARVARD**
 
 ## Projetos 🚀
 - **Protifolio**: https://portifoliojl.vercel.app/
