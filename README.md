@@ -47,7 +47,6 @@ Meu objetivo é criar soluções baseadas em dados que gerem impacto real em neg
 - **Santander 2025 - Ciência de Dados com Python** → DIO (Em andamento)
 - **Análise e Desenvolvimento de Sistemas** → Cruzeiro do Sul Universitário (Em curso)
 - **Desenvolvedor Full-Stack** → SENAI
-- **Treinamento Spring Boot e Quarkus** → Udemy (Em andamento)
 - Diversos bootcamps e treinamentos Java → DIO
 
 ## Projetos Destacados 🚀
