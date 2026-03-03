@@ -10,7 +10,7 @@ Meu objetivo é criar soluções baseadas em dados que gerem impacto real em neg
 - Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Jupyter Notebook
 
 **Desenvolvimento**
-- Java • Spring Boot • Quarkus
+- Java • Spring Boot
 - HTML • CSS • JavaScript • Angular • React
 
 **Banco de Dados**
